@@ -1,1 +1,8 @@
-# owasp-top-10-json-csv-jira
+# OWASP Checklist
+
+JSON
+XLSX
+CSV
+PDF
+
+CSV can be imported into JIRA
